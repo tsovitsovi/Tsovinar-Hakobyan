@@ -47,6 +47,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 > <p> пароль: hakmg2012 (postman,miro, qase.io,jira, sitechco) </p>
 
 <h2> Контактная информация </h2>
-- Email:  tsovinar.hakobyan@mail.ru
-- Telegram: +79524467460
-- WhatsApp: +79524467460
+
+<ul><li> Email:  tsovinar.hakobyan@mail.ru </li><li>  Telegram, WhatsApp: +79524467460</li></ul>
+
+
