@@ -16,7 +16,7 @@
 
 
 
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
+Jira,qase.io, sitechco, miro, SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Charles, Git, Chrome DevTools.
 
 
