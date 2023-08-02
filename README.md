@@ -33,18 +33,15 @@ SoapUI, Charles, Git, Chrome DevTools.
 <p>Как решала: Составила интеллект-карту продукта, тест-план, писала Тест -кейсы для приемочного тестирования, Чек-листы для функционального и регрессионного тестирования. Проводила приемочное, smoke, функциональное, регрессионное тестирование и тестирование API. <p>
 
 
-> <a href="https://tsovinar.atlassian.net/wiki/spaces/~6396d1c861aba8a6a32c4e16/pages/2883585/1+2">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1qJdNnEeI-O5gA6oCf3WoN28lASr6EYZBFTIGxurIJ1M/edit#heading=h.twvxkg9o2y2i">Ссылка на проект</a>
  
-> <p> логин: tsovinar.hakobyan@mail.ru </p>
-> <p> пароль: hakmg2012 (postman,miro, qase.io,jira, sitechco) </p>
 
 <p>Выводы (итоги):Составила отчетность по тестированию, где отображаются баги , которые были обнаружены во время тест-рана. Выводила статистику по найденным дефектам выставляя приоритеты.  Указала результаты и рекомендация.<p>
 
 
-> <a href="https://https://tsovinar.atlassian.net/wiki/spaces/~6396d1c861aba8a6a32c4e16/pages/3375105">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1Z-KsIOgebggnRipmGX7zvoK9Liu5VRQtcIPf3uwIf0E/edit">Ссылка на проект</a>
  
-> <p> логин: tsovinar.hakobyan@mail.ru </p>
-> <p> пароль: hakmg2012 (postman,miro, qase.io,jira, sitechco) </p>
+
 
 <h2> Контактная информация </h2>
 
